@@ -1,4 +1,4 @@
-## This is a markdown file
+## Vim commands
 vim installation
 config in .vimrc
 Vim basic commands

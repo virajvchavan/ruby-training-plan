@@ -41,4 +41,4 @@ Tasks:
   - ssh auth setup for github
   - git branchname should show up in console
   - will give a repo, interns should raise PRs with some code changes
-  - trunk-based devlopment
+  - trunk-based development

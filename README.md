@@ -30,6 +30,7 @@ Plan for a training on Ruby language to new interns
 - loops, iterations, methods like map, select
 - exception handling
 - gems, gemsets, creating a gem
+- debugging code (usin pry)
 - rubocop
 - block, proc, lambda
 - object oriented concepts

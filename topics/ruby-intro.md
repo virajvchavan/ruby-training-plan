@@ -42,10 +42,13 @@ Type conversion:
 Data Strictures:
   - Array
   - Hash
+	 - see different methods
+	 - sequence?
 
 Variables:
   - assigninig values
   - CONSTANTS
+
   - $global_variables
   - scope of variables
 
